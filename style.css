@@ -10,3 +10,9 @@ h1{
 section{
     display: flex;
 }
+.wib{
+    width: 50%;
+}
+.wib img{
+    width: 100%;
+}
