@@ -8,7 +8,7 @@ h1{
 .stg{
     color: rgb(25, 162, 180);
 }
-section{
+.felxible-container{
     display: flex;
 }
 .wib{
