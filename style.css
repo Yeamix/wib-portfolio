@@ -1,7 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+}
+h1{
+    font-size: 50px;
 }
 .stg{
     color: rgb(25, 162, 180);
+}
+section{
+    display: flex;
 }
