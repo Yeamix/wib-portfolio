@@ -12,11 +12,11 @@ section{
 }
 .wib{
     width: 50%;
-    padding-left: 5%;
+    padding: 5%;
 }
 .wib img{
     width: 100%;
 }
 .link-button{
-    background-color: burlywood;
+    text-decoration: none;
 }
